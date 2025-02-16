@@ -1,1 +1,0 @@
-# swarnalidasgupta.github.io
