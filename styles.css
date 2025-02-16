@@ -1,21 +1,25 @@
 body {
+    background-color: #000000; /* Black background */
+    color: #A7FFEB; /* Teal text */
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 40px;
 }
+
+a {
+    color: #7DF9FF; /* Electric blue for contrast */
+    text-decoration: none;
+}
+
 header {
-    background: #2c3e50;
-    color: white;
+    background: #1E1E1E; /* Dark gray for depth */
+    color: #FFFFFF;
     padding: 20px;
+    border-radius: 10px;
 }
-section {
-    margin: 20px 0;
-}
+
 footer {
     margin-top: 20px;
     font-size: 14px;
-}
-a {
-    color: #3498db;
-    text-decoration: none;
+    color: #7DF9FF; /* Brighter teal */
 }
